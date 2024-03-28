@@ -3,6 +3,6 @@
 
 # Ресурсы
 Сайт “Космос” создан с использованием:
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
